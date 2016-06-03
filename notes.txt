@@ -1,0 +1,9 @@
+New Table:
+  Track % of correct responses for each time a quiz is offered
+    
+Questions Page: Sorting - http://jplist.com/
+    
+ IDE:
+     Sortable - http://johnny.github.io/jquery-sortable/, https://jqueryui.com/sortable/#empty-lists, 
+               jquery array - http://api.jqueryui.com/sortable/#method-toArray,
+               http://rubaxa.github.io/Sortable/ 
