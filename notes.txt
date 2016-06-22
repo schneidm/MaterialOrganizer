@@ -4,6 +4,12 @@ New Table:
 Questions Page: Sorting - http://jplist.com/
     
  IDE:
-     Sortable - http://johnny.github.io/jquery-sortable/, https://jqueryui.com/sortable/#empty-lists, 
+     Update remaining buttons to modify the list of questions to choose from.
+     Go back to using a post request to create the list of questions.  Use the Jquery .post since it doesn't leave the page.
+     
+     Handle the creation of the list of questions as an html text and feed to a document editor.
+     
+     
+     - http://johnny.github.io/jquery-sortable/, https://jqueryui.com/sortable/#empty-lists, 
                jquery array - http://api.jqueryui.com/sortable/#method-toArray,
                http://rubaxa.github.io/Sortable/ 

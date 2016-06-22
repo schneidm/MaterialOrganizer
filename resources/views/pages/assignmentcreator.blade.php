@@ -118,7 +118,7 @@
             <div class="form-group row vcenter">
               <label class="col-sm-3">Number of Questions</label>
               <div  class="col-sm-9 ">
-                <input class="form-control" type="number" name="numQuestions" value="1" min="1" max="{{$numQuestions}}">
+                <input class="form-control" type="number" name="numQuestions" value="1" min="1" max="5">
               </div>
             </div>
             <button  type="submit" class="btn btn-primary btn-block">Create Assignment</button>

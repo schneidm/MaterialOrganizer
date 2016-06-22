@@ -19,9 +19,8 @@
 
 @section('content')
  
-   {{ $questions }}
-   <div class="page-break"></div>
-    {{ $answers }}
+   {{ $request }}
+
   
 @stop
 
